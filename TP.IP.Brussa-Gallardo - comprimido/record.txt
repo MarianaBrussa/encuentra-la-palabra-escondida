@@ -1,0 +1,2 @@
+recordActual = 0
+recordMaximo = 4
